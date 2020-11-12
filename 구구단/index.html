@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>구구단</title>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <style>
+        #root {
+            margin: 0 auto;
+            padding-top: 40px;
+            text-align: center;
+        }
+        .main {
+            font-size: 30px;
+        }
+        #result {
+            font-size: 30px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="root">
+        <div class="main">{{first}} 곱하기 {{second}} 는?</div>
+        <form v-on:submit="onsubmitForm">
+            <input type="number" ref="answer" v-model="value">
+            <button type="submit">제출</button>
+        </form>
+        <div id="result">{{result}}</div>
+    </div>
+
+    <script>
+        const app = new Vue ({
+            el: '#root',
+            data: {
+                first: Math.ceil(Math.random()*9),
+                second: Math.ceil(Math.random()*9),
+                value: '',
+                result: '',
+            },
+            methods: {
+              onsubmitForm(e) {
+                  e.preventDefault();
+                  if(this.first * this.second === parseInt(this.value)) {
+                      this.result = '정답';
+                      this.first = Math.ceil(Math.random()*9);
+                      this.second = Math.ceil(Math.random()*9);
+                      this.value = '';
+                      this.$refs.answer.focus(); // ref는 남용 금지, 값을  직접 바꾸는 것도 금지
+                  }
+                  else {
+                      this.result = '땡';
+                      this.value = '';
+                  }
+              }
+            },
+        })
+    </script>
+</body>
+
+</html>

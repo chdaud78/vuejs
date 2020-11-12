@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>끝말잇기</title>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <style>
+        #root {
+            margin: 0 auto;
+            padding-top: 40px;
+            text-align: center;
+        }
+        .main {
+            font-size: 30px;
+        }
+        #result {
+            font-size: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div id="root">
+        <div class="main">{{first}}</div>
+            <form v-on:submit="onsubmitForm">
+                <input type="text" ref="answer" v-model="value">
+                <button type="submit">제출</button>
+            </form>
+        <div id="result">{{result}}</div>
+    </div>
+
+    <script>
+        const app = new Vue ({
+            el: '#root',
+            data: {
+                first: '총명',
+                value: '',
+                result: '',
+            },
+            methods: {
+                onsubmitForm(e) {
+                    e.preventDefault();
+                    if(this.first[this.first.length - 1] === this.value[0]){
+                        this.result = '정답';
+                        this.first = this.value;
+                        this.value = '';
+                        this.$refs.answer.focus();
+                    }else {
+                        this.result = '땡';
+                        this.value = '';
+                        this.$refs.answer.focus();
+                    }
+                },
+            },
+        })
+    </script>
+</body>
+</html>

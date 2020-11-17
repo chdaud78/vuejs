@@ -20,21 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="519d0f2b-84d5-4ed6-bc67-abdf45a6645b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4.반응속도체크/ResponseCheck.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.반응속도체크/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.반응속도체크/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.반응속도체크/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.반응속도체크/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.가위바위보/RockSicssorPaper.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.가위바위보/RockSicssorPaper.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.가위바위보/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.가위바위보/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.가위바위보/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.가위바위보/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.로또추첨기/RockSicssorPaper.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.로또추첨기/RockSicssorPaper.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.로또추첨기/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.로또추첨기/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.로또추첨기/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.로또추첨기/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/구구단/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/끝말잇기/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/끝말잇기/index2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/숫자야구/NumberBaseball.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/숫자야구/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/4.반응속도체크/ResponseCheck.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/숫자야구/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/숫자야구/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/숫자야구/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/숫자야구/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.숫자야구/NumberBaseball.vue" beforeDir="false" afterPath="$PROJECT_DIR$/3.숫자야구/NumberBaseball.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,18 +51,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/4.반응속도체크" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/6.로또추첨기" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\PC-042\Desktop\공부\vuejs" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\5.가위바위보" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\4.반응속도체크" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\반응속도체크" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC-042\Desktop\공부\vuejs" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -78,6 +78,10 @@
       <workItem from="1605162498139" duration="35000" />
       <workItem from="1605243048826" duration="3176000" />
       <workItem from="1605247065104" duration="5615000" />
+      <workItem from="1605574475576" duration="4609000" />
+      <workItem from="1605590553730" duration="7000" />
+      <workItem from="1605591224432" duration="750000" />
+      <workItem from="1605592268904" duration="3635000" />
     </task>
     <servers />
   </component>
@@ -101,6 +105,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@0.0.1920.1040" timestamp="1605144583698" />
+    <state x="703" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605574579409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="703" y="320" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@0.0.1920.1040" timestamp="1605574579409" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1605594769986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@0.0.1920.1040" timestamp="1605594769986" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605592045106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@0.0.1920.1040" timestamp="1605592045106" />
     <state x="2002" y="-557" key="SettingsEditor" timestamp="1605247057526">
       <screen x="1920" y="-853" width="1080" height="1880" />
     </state>

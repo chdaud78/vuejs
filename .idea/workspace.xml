@@ -20,11 +20,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="519d0f2b-84d5-4ed6-bc67-abdf45a6645b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/6.로또추첨기/LottoBall.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토/TableComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토/TdComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토/TicTacToe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토/TicTacToe.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토/TrComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토EventBus/EventBus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토EventBus/TableComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토EventBus/TdComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토EventBus/TicTacToe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토EventBus/TicTacToe.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토EventBus/TrComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토EventBus/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토EventBus/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토EventBus/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토EventBus/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토Vuex/TableComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토Vuex/TdComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토Vuex/TicTacToe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토Vuex/TicTacToe.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토Vuex/TrComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토Vuex/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토Vuex/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토Vuex/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토Vuex/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.틱택토Vuex/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.지뢰찾기/MineForm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.지뢰찾기/MineSweeper.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.지뢰찾기/MineSweeper.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.지뢰찾기/TableComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.지뢰찾기/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.지뢰찾기/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.지뢰찾기/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.지뢰찾기/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.지뢰찾기/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.로또추첨기/LottoGenerate.html" beforeDir="false" afterPath="$PROJECT_DIR$/6.로또추첨기/LottoGenerate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.로또추첨기/LottoGenerate.vue" beforeDir="false" afterPath="$PROJECT_DIR$/6.로또추첨기/LottoGenerate.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.로또추첨기/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/6.로또추첨기/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.가위바위보/RockSicssorPaper.vue" beforeDir="false" afterPath="$PROJECT_DIR$/5.가위바위보/RockSicssorPaper.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,20 +77,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/6.로또추첨기" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/8.지뢰찾기" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\PC-042\Desktop\공부\vuejs" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\8.지뢰찾기" />
+      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\7.틱택토" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\6.로또추첨기" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\5.가위바위보" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\4.반응속도체크" />
-      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\반응속도체크" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC-042\Desktop\공부\vuejs" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -73,7 +109,17 @@
       <workItem from="1605574475576" duration="4609000" />
       <workItem from="1605590553730" duration="7000" />
       <workItem from="1605591224432" duration="750000" />
-      <workItem from="1605592268904" duration="8769000" />
+      <workItem from="1605592268904" duration="9087000" />
+      <workItem from="1605657594812" duration="9481000" />
+      <workItem from="1605673603692" duration="3806000" />
+      <workItem from="1605677555979" duration="3598000" />
+      <workItem from="1605686611336" duration="572000" />
+      <workItem from="1605687197529" duration="268000" />
+      <workItem from="1605687478919" duration="1887000" />
+      <workItem from="1605748185533" duration="21000" />
+      <workItem from="1605748234788" duration="19000" />
+      <workItem from="1605748407698" duration="9257000" />
+      <workItem from="1605762677266" duration="5371000" />
     </task>
     <servers />
   </component>
@@ -97,22 +143,28 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@0.0.1920.1040" timestamp="1605144583698" />
-    <state x="703" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605574579409">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1217" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605659901069">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state x="-1217" y="320" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@-1920.0.1920.1040" timestamp="1605659901069" />
     <state x="703" y="320" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@0.0.1920.1040" timestamp="1605574579409" />
     <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1605594769986">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@0.0.1920.1040" timestamp="1605594769986" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605592045106">
+    <state x="-1230" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605660078024">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1230" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@-1920.0.1920.1040" timestamp="1605660078024" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605687226030">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@0.0.1920.1040" timestamp="1605592045106" />
-    <state x="2002" y="-557" key="SettingsEditor" timestamp="1605247057526">
-      <screen x="1920" y="-853" width="1080" height="1880" />
+    <state x="740" y="275" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@0.0.1920.1040" timestamp="1605687226030" />
+    <state x="-1276" y="104" key="SettingsEditor" timestamp="1605754286611">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="164" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@0.0.1920.1040" timestamp="1605144675119" />
+    <state x="-1276" y="104" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@-1920.0.1920.1040" timestamp="1605754286611" />
+    <state x="461" y="164" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@0.0.1920.1040" timestamp="1605753302254" />
     <state x="2002" y="-557" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@1920.-853.1080.1880" timestamp="1605247057526" />
     <state width="600" height="428" key="javadoc.popup" timestamp="1605147978455">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -122,5 +174,16 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@0.0.1920.1040" timestamp="1605155386773" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../vue-webgame-master/8.지뢰찾기/store.js</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

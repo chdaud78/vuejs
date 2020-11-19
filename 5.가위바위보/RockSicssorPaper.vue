@@ -2,9 +2,9 @@
   <div>
     <div id="computer" v-bind:style="computedStyleObject"></div>
     <div>
-      <button @click="onClickButton('rock')">바위</button>
+      <button @click="onClickButton('rock')">보</button>
       <button @click="onClickButton('scissor')">가위</button>
-      <button @click="onClickButton('paper')">보</button>
+      <button @click="onClickButton('paper')">바위</button>
     </div>
     <div>
       <div>{{result}}</div>

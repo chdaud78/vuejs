@@ -20,46 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="519d0f2b-84d5-4ed6-bc67-abdf45a6645b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7.틱택토/TableComponent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토/TdComponent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토/TicTacToe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토/TicTacToe.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토/TrComponent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토EventBus/EventBus.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토EventBus/TableComponent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토EventBus/TdComponent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토EventBus/TicTacToe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토EventBus/TicTacToe.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토EventBus/TrComponent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토EventBus/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토EventBus/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토EventBus/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토EventBus/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토Vuex/TableComponent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토Vuex/TdComponent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토Vuex/TicTacToe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토Vuex/TicTacToe.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토Vuex/TrComponent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토Vuex/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토Vuex/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토Vuex/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토Vuex/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.틱택토Vuex/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.지뢰찾기/MineForm.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.지뢰찾기/MineSweeper.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.지뢰찾기/MineSweeper.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.지뢰찾기/TableComponent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.지뢰찾기/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.지뢰찾기/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.지뢰찾기/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.지뢰찾기/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.지뢰찾기/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-router/Router.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-router/Router.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-router/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-router/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-router/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-router/routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-router/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.가위바위보/RockSicssorPaper.vue" beforeDir="false" afterPath="$PROJECT_DIR$/5.가위바위보/RockSicssorPaper.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,21 +45,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/8.지뢰찾기" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vue-router" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC-042\Desktop\공부\vuejs" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue-router" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\8.지뢰찾기" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\7.틱택토" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\6.로또추첨기" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\5.가위바위보" />
-      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\4.반응속도체크" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\PC-042\Desktop\공부\vuejs" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -120,6 +88,7 @@
       <workItem from="1605748234788" duration="19000" />
       <workItem from="1605748407698" duration="9257000" />
       <workItem from="1605762677266" duration="5371000" />
+      <workItem from="1605771735068" duration="2368000" />
     </task>
     <servers />
   </component>
@@ -180,7 +149,6 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/../../vue-webgame-master/8.지뢰찾기/store.js</url>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

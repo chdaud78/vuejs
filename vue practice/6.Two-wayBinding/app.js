@@ -40,7 +40,7 @@ const app = Vue.createApp({
       return this.name + ' ' + this.LastName;
     },
   },
-  methods: { // 모든상황에서 재실행
+  methods: { // 모든상황에서 재실행, 컴포넌트를 재실행, 대게 이벤트를 위해 이용
     // setName(event) {
     //   this.name = event.target.value;
     // },

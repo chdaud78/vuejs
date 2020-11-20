@@ -20,24 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cbcfc9e-baa0-4520-ae14-a12c623a1f1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vue practice/1.GoalList/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/1.GoalList/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/1.GoalList/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/2.CourseGoal/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/2.CourseGoal/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/2.CourseGoal/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/3.BasicAssignment/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/3.BasicAssignment/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/3.BasicAssignment/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/4.VueEvent/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/4.VueEvent/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/4.VueEvent/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/5. EventBindingAssignment/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/5. EventBindingAssignment/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/5. EventBindingAssignment/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/6.Two-wayBinding/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/6.Two-wayBinding/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/6.Two-wayBinding/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/7.ReactivityAssignment/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/7.ReactivityAssignment/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/7.ReactivityAssignment/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/6.Two-wayBinding/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/6.Two-wayBinding/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/6.Two-wayBinding/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/6.Two-wayBinding/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +60,7 @@
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\Two-wayBinding" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\7.ReactivityAssignment" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\Two-wayBinding" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice" />
     </key>

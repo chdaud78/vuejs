@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Vue Basic</title>
+    <link
+            href="https://fonts.googleapis.com/css2?family=Jost:wght@400;700&display=swap"
+            rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://unpkg.com/vue@next" defer></script>
+    <script src="app.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1>Vue Course Goals</h1>
+    </header>
+    <section id="user-goal">
+        <h2>My Course Goal</h2>
+        <p>{{ courseGoal }}</p> <!-- {{}} 는 tag의 사이에서만 적용 tag 자체의 안에서 적용 x , js의 문법을 적어도 적용 가능.-->
+        <p>{{ Math.random() }}</p>
+        <p>{{ outputGoal() }}</p> <!-- methods 를 불러올수도 있음. -->
+        <p>{{ outputGoalByData() }}</p>
+        <p v-html="outputGoalByData()"></p>
+        <p>Learn more <a v-bind:href="vueLink">about Vue</a> </p> <!-- tag 사이에서 vue를 적용하려면 v-속성 ex) v-vind, v-on 등 이용 v-vind:속성="data의 이름" -->
+    </section>
+</body>
+</html>

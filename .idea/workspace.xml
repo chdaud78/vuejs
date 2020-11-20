@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8cbcfc9e-baa0-4520-ae14-a12c623a1f1f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/vue practice/1.GoalList/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/1.GoalList/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/1.GoalList/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/2.CourseGoal/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/2.CourseGoal/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/2.CourseGoal/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/3.BasicAssignment/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/3.BasicAssignment/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/3.BasicAssignment/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/4.VueEvent/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/4.VueEvent/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/4.VueEvent/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/5. EventBindingAssignment/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/5. EventBindingAssignment/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/5. EventBindingAssignment/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/6.Two-wayBinding/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/6.Two-wayBinding/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/6.Two-wayBinding/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kVAhifz1eLdTAEngMHZrOcxn2B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vue practice/Two-wayBinding" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\Two-wayBinding" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\Two-wayBinding" />
+      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cbcfc9e-baa0-4520-ae14-a12c623a1f1f" name="Default Changelist" comment="" />
+      <created>1605775507707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605775507707</updated>
+      <workItem from="1605775509079" duration="640000" />
+      <workItem from="1605833365136" duration="177000" />
+      <workItem from="1605833586933" duration="15098000" />
+      <workItem from="1605854302468" duration="8000" />
+      <workItem from="1605854477967" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2189" y="-113" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605856178431">
+      <screen x="1920" y="-853" width="1080" height="1880" />
+    </state>
+    <state x="2189" y="-113" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@1920.-853.1080.1880" timestamp="1605856178431" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1605854488745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@0.0.1920.1040" timestamp="1605854488745" />
+    <state x="1960" y="-557" key="SettingsEditor" timestamp="1605854360877">
+      <screen x="1920" y="-853" width="1080" height="1880" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@0.0.1920.1040" timestamp="1605836792569" />
+    <state x="1960" y="-557" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@1920.-853.1080.1880" timestamp="1605854360877" />
+    <state x="1920" y="-853" width="886" height="1867" key="dock-window-1" timestamp="1605857469751">
+      <screen x="1920" y="-853" width="1080" height="1880" />
+    </state>
+    <state x="1920" y="-853" width="886" height="1867" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@1920.-853.1080.1880" timestamp="1605857469751" />
+    <state x="2123" y="-418" width="672" height="678" key="search.everywhere.popup" timestamp="1605855376514">
+      <screen x="1920" y="-853" width="1080" height="1880" />
+    </state>
+    <state x="2123" y="-418" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@1920.-853.1080.1880" timestamp="1605855376514" />
+  </component>
+</project>

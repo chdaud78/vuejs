@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cbcfc9e-baa0-4520-ae14-a12c623a1f1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vue practice/7.ReactivityAssignment/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/7.ReactivityAssignment/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/7.ReactivityAssignment/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/6.Two-wayBinding/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/6.Two-wayBinding/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/6.Two-wayBinding/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/6.Two-wayBinding/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/7.ReactivityAssignment/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/7.ReactivityAssignment/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/7.ReactivityAssignment/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/7.ReactivityAssignment/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,21 +62,6 @@
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -93,6 +75,7 @@
       <workItem from="1605833586933" duration="15098000" />
       <workItem from="1605854302468" duration="8000" />
       <workItem from="1605854477967" duration="31000" />
+      <workItem from="1605861774014" duration="1032000" />
     </task>
     <servers />
   </component>

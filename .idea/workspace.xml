@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cbcfc9e-baa0-4520-ae14-a12c623a1f1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vue practice/8.StylingVue/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/8.StylingVue/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/8.StylingVue/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/7.ReactivityAssignment/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/7.ReactivityAssignment/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/7.ReactivityAssignment/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/7.ReactivityAssignment/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/9.AssignmentProblem/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/9.AssignmentProblem/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/9.AssignmentProblem/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/9.AssignmentProblem/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +54,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\9.AssignmentProblem" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\8.StylingVue" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\7.ReactivityAssignment" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\Two-wayBinding" />
@@ -93,7 +91,7 @@
       <workItem from="1605854302468" duration="8000" />
       <workItem from="1605854477967" duration="31000" />
       <workItem from="1605861774014" duration="1032000" />
-      <workItem from="1606089370033" duration="4224000" />
+      <workItem from="1606089370033" duration="6636000" />
     </task>
     <servers />
   </component>

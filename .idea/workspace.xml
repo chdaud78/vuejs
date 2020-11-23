@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cbcfc9e-baa0-4520-ae14-a12c623a1f1f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/vue practice/10.RenderingLists/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/10.RenderingLists/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/10.RenderingLists/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/9.AssignmentProblem/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/9.AssignmentProblem/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/9.AssignmentProblem/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/9.AssignmentProblem/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +55,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\10.RenderingLists" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\9.AssignmentProblem" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\8.StylingVue" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\7.ReactivityAssignment" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\Two-wayBinding" />
-      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\Two-wayBinding" />
@@ -91,7 +92,7 @@
       <workItem from="1605854302468" duration="8000" />
       <workItem from="1605854477967" duration="31000" />
       <workItem from="1605861774014" duration="1032000" />
-      <workItem from="1606089370033" duration="6636000" />
+      <workItem from="1606089370033" duration="10834000" />
     </task>
     <servers />
   </component>
@@ -119,11 +120,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@0.0.1920.1040" timestamp="1605854488745" />
-    <state x="1960" y="-557" key="SettingsEditor" timestamp="1605854360877">
+    <state x="1960" y="-557" key="SettingsEditor" timestamp="1606100061062">
       <screen x="1920" y="-853" width="1080" height="1880" />
     </state>
     <state x="461" y="164" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@0.0.1920.1040" timestamp="1605836792569" />
-    <state x="1960" y="-557" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@1920.-853.1080.1880" timestamp="1605854360877" />
+    <state x="1960" y="-557" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@1920.-853.1080.1880" timestamp="1606100061062" />
     <state x="1920" y="-853" width="886" height="1867" key="dock-window-1" timestamp="1605857469751">
       <screen x="1920" y="-853" width="1080" height="1880" />
     </state>

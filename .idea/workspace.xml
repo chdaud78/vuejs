@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cbcfc9e-baa0-4520-ae14-a12c623a1f1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vue practice/12.Project-MonsterSlayer/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/12.Project-MonsterSlayer/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/12.Project-MonsterSlayer/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/13.VueBhindScenes/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/13.VueBhindScenes/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/13.VueBhindScenes/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kVAhifz1eLdTAEngMHZrOcxn2B" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -55,11 +58,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\13.VueBhindScenes" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\12.Project-MonsterSlayer" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\11.RenderingAssignment" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\10.RenderingLists" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\9.AssignmentProblem" />
-      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\8.StylingVue" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\Two-wayBinding" />
@@ -92,7 +95,7 @@
       <workItem from="1605854302468" duration="8000" />
       <workItem from="1605854477967" duration="31000" />
       <workItem from="1605861774014" duration="1032000" />
-      <workItem from="1606089370033" duration="20086000" />
+      <workItem from="1606089370033" duration="25543000" />
     </task>
     <servers />
   </component>

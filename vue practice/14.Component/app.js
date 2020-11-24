@@ -2,8 +2,12 @@ const app = Vue.createApp({
     data() {
         return {
             toggleCheck: false,
-            friends: [
-
+            friends: [{
+                id: 'Manuel',
+                name: 'Manuel Lorenz',
+                phone: '01234 5678 991',
+                email: 'manuel@localhost.com',
+            },
                 {
                     id: 'Julie',
                     name: 'Julie Jones',
@@ -13,9 +17,7 @@ const app = Vue.createApp({
             ]
         };
     },
-    methods: {
-
-    }
+    methods: {}
 });
 
 app.component('friend-contact', {
@@ -34,7 +36,7 @@ app.component('friend-contact', {
         return {
             toggleCheck: false,
             friends: [{
-            id: 'Manuel',
+                id: 'Manuel',
                 name: 'Manuel Lorenz',
                 phone: '01234 5678 991',
                 email: 'manuel@localhost.com',

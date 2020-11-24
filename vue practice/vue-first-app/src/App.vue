@@ -2,8 +2,18 @@
   <section>
     <header><h1>My Friends</h1></header>
     <ul>
-      <friend-contact></friend-contact>
-      <friend-contact></friend-contact>
+      <friend-contact
+        name="Park Jaehyun"
+        phone-number="010 1234 5678"
+        email-address="jae@naver.com"
+        is-favorite="1"
+      ></friend-contact>
+      <friend-contact
+          name="Jo Yusin"
+          phone-number="010 9876 5432"
+          email-address="chong@naver.com"
+          is-favorite="0"
+      ></friend-contact>
     </ul>
   </section>
 </template>
@@ -20,8 +30,8 @@ export default {
           email: 'jae@naver.com',
         },
         {
-          id: 'chong',
-          name: 'Park Chongmyeong',
+          id: 'yu',
+          name: 'Jo Yusin',
           phone: '010 9876 5432',
           email: 'chong@naver.com',
         }

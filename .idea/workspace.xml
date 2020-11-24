@@ -23,7 +23,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue practice/vue-first-app/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-first-app/src/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue practice/vue-first-app/src/components/FriendContact.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-first-app/src/components/FriendContact.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/vue-first-app/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-first-app/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +97,7 @@
       <workItem from="1605854477967" duration="31000" />
       <workItem from="1605861774014" duration="1032000" />
       <workItem from="1606089370033" duration="25794000" />
-      <workItem from="1606176502933" duration="8442000" />
+      <workItem from="1606176502933" duration="10502000" />
     </task>
     <servers />
   </component>

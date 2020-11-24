@@ -3,16 +3,14 @@
     <header><h1>My Friends</h1></header>
     <ul>
       <friend-contact
-        name="Park Jaehyun"
-        phone-number="010 1234 5678"
-        email-address="jae@naver.com"
-        is-favorite="1"
-      ></friend-contact>
-      <friend-contact
-          name="Jo Yusin"
-          phone-number="010 9876 5432"
-          email-address="chong@naver.com"
-          is-favorite="0"
+          v-for="friend in friends"
+          :key="friend.id"
+          :id="friend.id"
+          :name="friend.name"
+          :phone-number="friend.phone"
+          :email-address="friend.email"
+          :is-favorite="friend.isFavorite"
+          @toggle-favorite="toggleFavoriteStatus"
       ></friend-contact>
     </ul>
   </section>
@@ -28,21 +26,39 @@ export default {
           name: 'Park Jaehyun',
           phone: '010 1234 5678',
           email: 'jae@naver.com',
+          isFavorite: false,
         },
         {
           id: 'yu',
           name: 'Jo Yusin',
           phone: '010 9876 5432',
           email: 'chong@naver.com',
+          isFavorite: true,
+        },
+        {
+          id: 'young',
+          name: 'Kim Youngjae',
+          phone: '010 2344 2342',
+          email: 'young@naver.com',
+          isFavorite: false,
         }
       ]
     };
   },
+  methods: {
+    toggleFavoriteStatus(friendId) {
+      const identifiedFriend = this.friends.find(
+          (friend) => friend.id === friendId
+      );
+      identifiedFriend.isFavorite = !identifiedFriend.isFavorite;
+      },
+    },
 };
 </script>
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
 * {
   box-sizing: border-box;
 }
@@ -53,6 +69,7 @@ html {
 
 body {
   margin: 0;
+  background-color: #f3e5f5 ;
 }
 
 header {
@@ -74,6 +91,7 @@ header {
 }
 
 #app li {
+  background-color: #fff;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
   margin: 1rem auto;
   border-radius: 10px;

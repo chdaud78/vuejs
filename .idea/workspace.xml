@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cbcfc9e-baa0-4520-ae14-a12c623a1f1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vue practice/13.VueBhindScenes/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/13.VueBhindScenes/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/13.VueBhindScenes/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/14.Component/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/14.Component/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/14.Component/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,25 +57,27 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\Two-wayBinding" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\14.Component" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\13.VueBhindScenes" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\12.Project-MonsterSlayer" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\11.RenderingAssignment" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\10.RenderingLists" />
-      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\9.AssignmentProblem" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\Two-wayBinding" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -95,7 +97,8 @@
       <workItem from="1605854302468" duration="8000" />
       <workItem from="1605854477967" duration="31000" />
       <workItem from="1605861774014" duration="1032000" />
-      <workItem from="1606089370033" duration="25543000" />
+      <workItem from="1606089370033" duration="25794000" />
+      <workItem from="1606176502933" duration="2031000" />
     </task>
     <servers />
   </component>
@@ -140,5 +143,17 @@
       <screen x="1920" y="-853" width="1080" height="1880" />
     </state>
     <state x="2123" y="-418" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@1920.-853.1080.1880" timestamp="1605855376514" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/vue practice/14.Component/app.js</url>
+          <line>27</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

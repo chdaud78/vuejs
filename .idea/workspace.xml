@@ -20,10 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cbcfc9e-baa0-4520-ae14-a12c623a1f1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vue practice/vue-first-app/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/vue-first-app/src/components/FriendContact.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/14.Component/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/14.Component/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-first-app/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-first-app/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-first-app/src/components/FriendContact.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-first-app/src/components/FriendContact.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-first-app/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-first-app/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +98,7 @@
       <workItem from="1605854477967" duration="31000" />
       <workItem from="1605861774014" duration="1032000" />
       <workItem from="1606089370033" duration="25794000" />
-      <workItem from="1606176502933" duration="7363000" />
+      <workItem from="1606176502933" duration="8442000" />
     </task>
     <servers />
   </component>
@@ -122,10 +122,10 @@
       <screen x="1920" y="-853" width="1080" height="1880" />
     </state>
     <state x="2189" y="-113" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@1920.-853.1080.1880" timestamp="1605856178431" />
-    <state x="2190" y="-167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606184406006">
+    <state x="2190" y="-167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606191744205">
       <screen x="1920" y="-853" width="1080" height="1880" />
     </state>
-    <state x="2190" y="-167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@1920.-853.1080.1880" timestamp="1606184406006" />
+    <state x="2190" y="-167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@1920.-853.1080.1880" timestamp="1606191744205" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1605854488745">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

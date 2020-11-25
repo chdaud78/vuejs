@@ -20,15 +20,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cbcfc9e-baa0-4520-ae14-a12c623a1f1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/ActiveGoals.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/CourseGoals.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/ErrorAlert.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/ManageGoals.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-second-app/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-second-app/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-second-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-second-app/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-second-app/HOW-TO-USE.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-second-app/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-second-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-second-app/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/UI/BaseButton.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/UI/BaseCard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/layouts/TheHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/learning-resource/LearningResource.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/learning-resource/StoredResource.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/BadgeList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/BadgeList.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/BaseCard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/BaseCard.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/UserInfo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/UserInfo.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/BaseBadge.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/UI/BaseBadge.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/BaseCard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/UI/BaseCard.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/ManageGoals.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/ManageGoals.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/TheHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/layout/TheHeader.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,28 +74,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\vue-second-app\src\components\learning-resource" />
+      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\vue-second-app" />
+      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\17.DeeperComponent\src\components\layout" />
+      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\17.DeeperComponent\src\components\UI" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\17.DeeperComponent" />
-      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\16.PotentialProblem" />
-      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\15.ProjectAssignment" />
-      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\14.Component" />
-      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\13.VueBhindScenes" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\Two-wayBinding" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -102,7 +100,8 @@
       <workItem from="1605861774014" duration="1032000" />
       <workItem from="1606089370033" duration="25794000" />
       <workItem from="1606176502933" duration="23526000" />
-      <workItem from="1606262359527" duration="11984000" />
+      <workItem from="1606262359527" duration="18293000" />
+      <workItem from="1606291526726" duration="5000" />
     </task>
     <servers />
   </component>
@@ -122,14 +121,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2189" y="-113" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605856178431">
+    <state x="2189" y="-113" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606281618615">
       <screen x="1920" y="-853" width="1080" height="1880" />
     </state>
-    <state x="2189" y="-113" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@1920.-853.1080.1880" timestamp="1605856178431" />
-    <state x="2190" y="-167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606191744205">
+    <state x="2189" y="-113" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@1920.-853.1080.1880" timestamp="1606281618615" />
+    <state x="2190" y="-167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606282983666">
       <screen x="1920" y="-853" width="1080" height="1880" />
     </state>
-    <state x="2190" y="-167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@1920.-853.1080.1880" timestamp="1606191744205" />
+    <state x="2190" y="-167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@1920.-853.1080.1880" timestamp="1606282983666" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1605854488745">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

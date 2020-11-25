@@ -20,11 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cbcfc9e-baa0-4520-ae14-a12c623a1f1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vue practice/15.ProjectAssignment/src/components/ActiveUser.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/15.ProjectAssignment/src/components/UserData.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/16.PotentialProblem/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/16.PotentialProblem/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/16.PotentialProblem/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/16.PotentialProblem/HOW-TO-USE.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/16.PotentialProblem/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/16.PotentialProblem/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/15.ProjectAssignment/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/15.ProjectAssignment/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/15.ProjectAssignment/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/15.ProjectAssignment/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,27 +60,25 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\Two-wayBinding" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\16.PotentialProblem" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\15.ProjectAssignment" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\14.Component" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\13.VueBhindScenes" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\12.Project-MonsterSlayer" />
-      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\11.RenderingAssignment" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\Two-wayBinding" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,7 +99,8 @@
       <workItem from="1605854477967" duration="31000" />
       <workItem from="1605861774014" duration="1032000" />
       <workItem from="1606089370033" duration="25794000" />
-      <workItem from="1606176502933" duration="22812000" />
+      <workItem from="1606176502933" duration="23526000" />
+      <workItem from="1606262359527" duration="1227000" />
     </task>
     <servers />
   </component>
@@ -155,7 +156,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/vue practice/14.Component/app.js</url>
           <line>24</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

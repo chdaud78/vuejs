@@ -20,13 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cbcfc9e-baa0-4520-ae14-a12c623a1f1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vue practice/16.PotentialProblem/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/16.PotentialProblem/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/16.PotentialProblem/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/16.PotentialProblem/HOW-TO-USE.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/16.PotentialProblem/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/16.PotentialProblem/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/16.PotentialProblem/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/16.PotentialProblem/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/16.PotentialProblem/src/components/KnowledgeBase.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/16.PotentialProblem/src/components/KnowledgeBase.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/16.PotentialProblem/src/components/KnowledgeElement.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/16.PotentialProblem/src/components/KnowledgeElement.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/16.PotentialProblem/src/components/KnowledgeGrid.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/16.PotentialProblem/src/components/KnowledgeGrid.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +99,7 @@
       <workItem from="1605861774014" duration="1032000" />
       <workItem from="1606089370033" duration="25794000" />
       <workItem from="1606176502933" duration="23526000" />
-      <workItem from="1606262359527" duration="1227000" />
+      <workItem from="1606262359527" duration="3613000" />
     </task>
     <servers />
   </component>

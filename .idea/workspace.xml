@@ -19,7 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cbcfc9e-baa0-4520-ae14-a12c623a1f1f" name="Default Changelist" comment="" />
+    <list default="true" id="8cbcfc9e-baa0-4520-ae14-a12c623a1f1f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/BaseCard.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/BadgeList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/BadgeList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/BaseBadge.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/BaseBadge.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/TheHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/TheHeader.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/UserInfo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/UserInfo.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/main.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,11 +63,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\17.DeeperComponent" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\16.PotentialProblem" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\15.ProjectAssignment" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\14.Component" />
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\13.VueBhindScenes" />
-      <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\12.Project-MonsterSlayer" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\Two-wayBinding" />
@@ -92,7 +102,7 @@
       <workItem from="1605861774014" duration="1032000" />
       <workItem from="1606089370033" duration="25794000" />
       <workItem from="1606176502933" duration="23526000" />
-      <workItem from="1606262359527" duration="4350000" />
+      <workItem from="1606262359527" duration="8585000" />
     </task>
     <servers />
   </component>

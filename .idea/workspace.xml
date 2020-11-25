@@ -20,15 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cbcfc9e-baa0-4520-ae14-a12c623a1f1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/BaseCard.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/ActiveGoals.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/CourseGoals.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/ErrorAlert.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/ManageGoals.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/BadgeList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/BadgeList.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/BaseBadge.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/BaseBadge.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/TheHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/TheHeader.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/BaseCard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/BaseCard.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/UserInfo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/UserInfo.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +102,7 @@
       <workItem from="1605861774014" duration="1032000" />
       <workItem from="1606089370033" duration="25794000" />
       <workItem from="1606176502933" duration="23526000" />
-      <workItem from="1606262359527" duration="8585000" />
+      <workItem from="1606262359527" duration="11984000" />
     </task>
     <servers />
   </component>

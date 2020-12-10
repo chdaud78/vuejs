@@ -20,12 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cbcfc9e-baa0-4520-ae14-a12c623a1f1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/learning-resource/AddResource.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/learning-resource/TheResource.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-second-app/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/learning-resource/LearningResource.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/learning-resource/LearningResource.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/UI/BaseButton.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/UI/BaseButton.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/learning-resource/AddResource.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/learning-resource/AddResource.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/learning-resource/StoredResource.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/learning-resource/StoredResource.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/learning-resource/TheResource.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/learning-resource/TheResource.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/vue game/6.로또추첨기" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -109,6 +114,15 @@
       <workItem from="1606364880875" duration="5550000" />
       <workItem from="1606375585919" duration="85000" />
       <workItem from="1606376353321" duration="829000" />
+      <workItem from="1606437183239" duration="928000" />
+      <workItem from="1606438348933" duration="1657000" />
+      <workItem from="1606466227024" duration="1009000" />
+      <workItem from="1606714410763" duration="2917000" />
+      <workItem from="1606725351026" duration="610000" />
+      <workItem from="1606783025332" duration="631000" />
+      <workItem from="1606871730922" duration="3000" />
+      <workItem from="1607390853883" duration="5308000" />
+      <workItem from="1607476832566" duration="7000" />
     </task>
     <servers />
   </component>
@@ -150,6 +164,11 @@
       <screen x="1920" y="-853" width="1080" height="1880" />
     </state>
     <state x="1920" y="-853" width="886" height="1867" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@1920.-853.1080.1880" timestamp="1605857469751" />
+    <state x="715" y="71" width="554" height="969" key="find.popup" timestamp="1606724217919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="252" width="584" height="536" key="find.popup/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@0.0.1920.1040" timestamp="1606715541568" />
+    <state x="715" y="71" width="554" height="969" key="find.popup/-1920.0.1920.1040/0.0.1920.1040/1920.-853.1080.1880@1920.-853.1080.1880" timestamp="1606724217919" />
     <state x="2116" y="24" key="run.anything.popup" timestamp="1606114268656">
       <screen x="1920" y="-853" width="1080" height="1880" />
     </state>

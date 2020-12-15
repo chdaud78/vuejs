@@ -20,21 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cbcfc9e-baa0-4520-ae14-a12c623a1f1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/UI/BaseDialog.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/vue-third-app/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/vue-third-app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/vue-third-app/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/vue-third-app/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/vue-third-app/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/vue-third-app/src/components/TheForm.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue practice/vue-third-app/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-third-app/src/components/RatingControl.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-second-app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/learning-resource/AddResource.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/learning-resource/AddResource.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/learning-resource/LearningResource.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/learning-resource/LearningResource.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/learning-resource/StoredResource.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/learning-resource/StoredResource.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/learning-resource/TheResource.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/learning-resource/TheResource.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-second-app/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-third-app/src/components/TheForm.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-third-app/src/components/TheForm.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +75,19 @@
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\17.DeeperComponent\src\components\UI" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -122,6 +123,7 @@
       <workItem from="1607390853883" duration="5308000" />
       <workItem from="1607476832566" duration="7000" />
       <workItem from="1607995774325" duration="3688000" />
+      <workItem from="1608005596248" duration="4597000" />
     </task>
     <servers />
   </component>
@@ -188,7 +190,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/vue practice/vue-second-app/src/components/learning-resource/TheResource.vue</url>
           <line>60</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

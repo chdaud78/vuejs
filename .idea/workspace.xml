@@ -20,9 +20,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cbcfc9e-baa0-4520-ae14-a12c623a1f1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vue practice/vue-third-app/src/components/RatingControl.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-fourth-app/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-fourth-app/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-fourth-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-fourth-app/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-fourth-app/HOW-TO-USE.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-fourth-app/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-fourth-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-fourth-app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-fourth-app/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-fourth-app/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-fourth-app/src/components/UI/BaseButton.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-fourth-app/src/components/UI/BaseCard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-fourth-app/src/components/survey/LearningSurvey.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-fourth-app/src/components/survey/SurveyResult.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-fourth-app/src/components/survey/UserExperiences.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-fourth-app/src/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/vue-third-app/src/components/TheForm.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-third-app/src/components/TheForm.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +137,7 @@
       <workItem from="1607390853883" duration="5308000" />
       <workItem from="1607476832566" duration="7000" />
       <workItem from="1607995774325" duration="3688000" />
-      <workItem from="1608005596248" duration="4597000" />
+      <workItem from="1608005596248" duration="11255000" />
     </task>
     <servers />
   </component>

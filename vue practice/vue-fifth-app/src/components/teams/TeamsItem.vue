@@ -8,25 +8,27 @@
 
 <script>
 export default {
-  props: ['id','name', 'memberCount'],
+  props: ['id', 'name', 'memberCount'],
   computed: {
     teamMemberLink() {
       // return '/teams/' + this.id + '?sort=asc';
       return {
         name: 'team-members',
-        params:{
-          teamId: this.id
-        },
-        query: {
-          sort: 'asc',
-        },
+        params:
+            {
+              teamId: this.id
+            },
+        query:
+            {
+              sort: 'asc',
+            },
       };
-     /* this.$router.push({
-        name: 'team-members',
-        params:{
-          teamId: this.id
-        }
-      });*/
+      /* this.$router.push({
+         name: 'team-members',
+         params:{
+           teamId: this.id
+         }
+       });*/
     }
   }
 };

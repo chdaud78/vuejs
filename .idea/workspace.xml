@@ -20,16 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cbcfc9e-baa0-4520-ae14-a12c623a1f1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/components/nav/NotFound.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/components/teams/TeamsFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/components/users/UsersFooter.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-fifth-app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-fifth-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-fifth-app/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/components/nav/TheNavigation.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/components/nav/TheNavigation.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/components/teams/TeamMembers.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/components/teams/TeamMembers.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/components/teams/TeamsItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/components/teams/TeamsItem.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/components/teams/TeamsList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/components/teams/TeamsList.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/components/users/UsersList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/components/users/UsersList.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +52,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/mice/bics2019" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -135,7 +131,7 @@
       <workItem from="1607476832566" duration="7000" />
       <workItem from="1607995774325" duration="3688000" />
       <workItem from="1608005596248" duration="13110000" />
-      <workItem from="1608078605741" duration="7817000" />
+      <workItem from="1608078605741" duration="13152000" />
     </task>
     <servers />
   </component>

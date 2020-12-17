@@ -20,7 +20,261 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cbcfc9e-baa0-4520-ae14-a12c623a1f1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/.idea/vuejs.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/1.구구단/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/2.끝말잇기/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/2.끝말잇기/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/3.숫자야구/NumberBaseball.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/3.숫자야구/NumberBaseball.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/3.숫자야구/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/3.숫자야구/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/3.숫자야구/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/3.숫자야구/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/4.반응속도체크/ResponseCheck.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/4.반응속도체크/ResponseCheck.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/4.반응속도체크/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/4.반응속도체크/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/4.반응속도체크/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/4.반응속도체크/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/5.가위바위보/RockSicssorPaper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/5.가위바위보/RockSicssorPaper.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/5.가위바위보/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/5.가위바위보/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/5.가위바위보/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/5.가위바위보/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/6.로또추첨기/LottoBall.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/6.로또추첨기/LottoGenerate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/6.로또추첨기/LottoGenerate.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/6.로또추첨기/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/6.로또추첨기/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/6.로또추첨기/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/6.로또추첨기/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토/TableComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토/TdComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토/TicTacToe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토/TicTacToe.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토/TrComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토EventBus/EventBus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토EventBus/TableComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토EventBus/TdComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토EventBus/TicTacToe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토EventBus/TicTacToe.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토EventBus/TrComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토EventBus/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토EventBus/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토EventBus/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토EventBus/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토Vuex/TableComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토Vuex/TdComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토Vuex/TicTacToe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토Vuex/TicTacToe.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토Vuex/TrComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토Vuex/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토Vuex/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토Vuex/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토Vuex/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/7.틱택토Vuex/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/8.지뢰찾기/MineForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/8.지뢰찾기/MineSweeper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/8.지뢰찾기/MineSweeper.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/8.지뢰찾기/TableComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/8.지뢰찾기/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/8.지뢰찾기/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/8.지뢰찾기/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/8.지뢰찾기/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/8.지뢰찾기/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/vue-router/Router.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/vue-router/Router.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/vue-router/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/vue-router/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/vue-router/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/vue-router/routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue game/vue-router/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/1.GoalList/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/1.GoalList/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/1.GoalList/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/10.RenderingLists/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/10.RenderingLists/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/10.RenderingLists/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/11.RenderingAssignment/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/11.RenderingAssignment/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/11.RenderingAssignment/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/12.Project-MonsterSlayer/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/12.Project-MonsterSlayer/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/12.Project-MonsterSlayer/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/13.VueBhindScenes/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/13.VueBhindScenes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/13.VueBhindScenes/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/14.Component/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/14.Component/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/14.Component/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/15.ProjectAssignment/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/15.ProjectAssignment/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/15.ProjectAssignment/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/15.ProjectAssignment/HOW-TO-USE.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/15.ProjectAssignment/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/15.ProjectAssignment/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/15.ProjectAssignment/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/15.ProjectAssignment/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/15.ProjectAssignment/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/15.ProjectAssignment/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/15.ProjectAssignment/src/components/ActiveUser.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/15.ProjectAssignment/src/components/UserData.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/15.ProjectAssignment/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/16.PotentialProblem/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/16.PotentialProblem/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/16.PotentialProblem/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/16.PotentialProblem/HOW-TO-USE.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/16.PotentialProblem/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/16.PotentialProblem/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/16.PotentialProblem/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/16.PotentialProblem/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/16.PotentialProblem/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/16.PotentialProblem/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/16.PotentialProblem/src/components/ActiveElement.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/16.PotentialProblem/src/components/KnowledgeBase.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/16.PotentialProblem/src/components/KnowledgeElement.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/16.PotentialProblem/src/components/KnowledgeGrid.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/16.PotentialProblem/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/HOW-TO-USE.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/ActiveGoals.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/BadgeList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/CourseGoals.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/ErrorAlert.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/ManageGoals.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/UI/BaseBadge.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/UI/BaseCard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/UserInfo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/components/layout/TheHeader.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/17.DeeperComponent/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/2.CourseGoal/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/2.CourseGoal/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/2.CourseGoal/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/3.BasicAssignment/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/3.BasicAssignment/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/3.BasicAssignment/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/4.VueEvent/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/4.VueEvent/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/4.VueEvent/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/5. EventBindingAssignment/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/5. EventBindingAssignment/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/5. EventBindingAssignment/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/6.Two-wayBinding/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/6.Two-wayBinding/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/6.Two-wayBinding/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/7.ReactivityAssignment/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/7.ReactivityAssignment/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/7.ReactivityAssignment/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/8.StylingVue/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/8.StylingVue/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/8.StylingVue/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/9.AssignmentProblem/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/9.AssignmentProblem/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/9.AssignmentProblem/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/HOW-TO-USE.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/components/nav/TheNavigation.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/components/teams/TeamMembers.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/components/teams/TeamsItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/components/users/UserItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/pages/NotFound.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/pages/TeamsFooter.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/pages/TeamsList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/pages/UsersFooter.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/pages/UsersList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-first-app/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-first-app/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-first-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-first-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-first-app/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-first-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-first-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-first-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-first-app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-first-app/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-first-app/src/components/FriendContact.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-first-app/src/components/NewFriend.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-first-app/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fourth-app/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fourth-app/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fourth-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fourth-app/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fourth-app/HOW-TO-USE.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fourth-app/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fourth-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fourth-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fourth-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fourth-app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fourth-app/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fourth-app/src/components/UI/BaseButton.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fourth-app/src/components/UI/BaseCard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fourth-app/src/components/survey/LearningSurvey.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fourth-app/src/components/survey/SurveyResult.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fourth-app/src/components/survey/UserExperiences.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-fourth-app/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/HOW-TO-USE.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/UI/BaseButton.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/UI/BaseCard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/UI/BaseDialog.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/layouts/TheHeader.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/learning-resource/AddResource.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/learning-resource/LearningResource.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/learning-resource/StoredResource.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/src/components/learning-resource/TheResource.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-second-app/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-third-app/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-third-app/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-third-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-third-app/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-third-app/HOW-TO-USE.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-third-app/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-third-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-third-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-third-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-third-app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-third-app/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-third-app/src/components/RatingControl.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-third-app/src/components/TheForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue practice/vue-third-app/src/main.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,21 +328,6 @@
       <recent name="C:\Users\PC-042\Desktop\공부\vuejs\vue practice\17.DeeperComponent\src\components\layout" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -127,6 +366,7 @@
       <workItem from="1608005596248" duration="13110000" />
       <workItem from="1608078605741" duration="13176000" />
       <workItem from="1608173719589" duration="3436000" />
+      <workItem from="1608185562090" duration="557000" />
     </task>
     <servers />
   </component>

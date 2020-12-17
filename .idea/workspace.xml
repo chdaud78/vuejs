@@ -20,15 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cbcfc9e-baa0-4520-ae14-a12c623a1f1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/components/nav/NotFound.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/pages/NotFound.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/components/teams/TeamMembers.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/components/teams/TeamMembers.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/components/teams/TeamsFooter.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/pages/TeamsFooter.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/components/teams/TeamsList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/pages/TeamsList.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/components/users/UsersFooter.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/pages/UsersFooter.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/components/users/UsersList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/pages/UsersList.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue practice/vue-fifth-app/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,13 +75,15 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
